@@ -15,10 +15,13 @@ Key Features:
 Outcome: This tool eliminates manual oversight and significantly reduces the risk of legal penalties for the agency. It provides a clear, real-time overview of the portfolio’s legal health and performance.
 
 1. Compliance Logic Setup
+
 ![Status Alerts](./Automatic_Expiry_Alerts.jpg)
 
 2. Proactive Monitoring (30-day warning)
+
 ![Upcoming Deadlines](./Upcoming_Deadlines.jpg)
 
 3. Automated Portfolio Overview
+
 ![Full Tracker](./Automated_Portfolio_Tracker.jpg)
