@@ -6,7 +6,9 @@ Key Features:
 •	Risk Mitigation (Proactive Alerts): Integrated a 3-tier Conditional Formatting system:
 
 o	RED: Immediate action required (Expired).
+
 o	YELLOW: Proactive warning (Expiring within 30 days).
+
 o	GREEN: Fully compliant.
 
 •	Scalable Architecture: Utilised Excel's "Format as Table" feature to allow the system to automatically apply logic and formatting to new property entries.
