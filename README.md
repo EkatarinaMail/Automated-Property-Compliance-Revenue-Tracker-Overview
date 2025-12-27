@@ -14,7 +14,7 @@ Key Features:
 •	Scalable Architecture: Utilised Excel's "Format as Table" feature to allow the system to automatically apply logic and formatting to new property entries.
 Outcome: This tool eliminates manual oversight and significantly reduces the risk of legal penalties for the agency. It provides a clear, real-time overview of the portfolio’s legal health and performance.
 
-1. Compliance Logic Setup
+1. Automatic Expiry Alert
 
 ![Status Alerts](./Automatic_Expiry_Alerts.jpg)
 
