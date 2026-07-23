@@ -31,5 +31,5 @@ Outcome: This tool eliminates manual oversight and significantly reduces the ris
 
 For more detailed housing compliance analysis, see:
 
-- [Housing Compliance & Safety Dashboard — Power BI and SQL](https://github.com/EkatarinaMail/Housing-Compliance-Dashboard-PowerBI-SQL)
-- [Compliance Data Validation Audit — Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
+- [Housing Compliance & Safety Dashboard Power BI and SQL](https://github.com/EkatarinaMail/Housing-Compliance-Dashboard-PowerBI-SQL)
+- [Compliance Data Validation Audit Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
