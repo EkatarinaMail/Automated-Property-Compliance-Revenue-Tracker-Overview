@@ -1,4 +1,4 @@
-# Automated-Property-Compliance-Revenue-Tracker-Overview
+# Automated Property Compliance Tracker Excel
 Project Overview: I have developed an Excel-based management system to track essential legal documentation for a London-based property portfolio. The primary goal was to ensure 100% compliance with UK housing regulations, including Gas Safety, EICR, EPC, and HMO licensing.
 
 Key Features:
@@ -25,3 +25,11 @@ Outcome: This tool eliminates manual oversight and significantly reduces the ris
 3. Automated Portfolio Overview
 
 ![Full Tracker](./Automated_Portfolio_Tracker.jpg)
+
+
+## Related Projects
+
+For more detailed housing compliance analysis, see:
+
+- [Housing Compliance & Safety Dashboard — Power BI and SQL](https://github.com/EkatarinaMail/Housing-Compliance-Dashboard-PowerBI-SQL)
+- [Compliance Data Validation Audit — Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
